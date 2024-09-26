@@ -1,4 +1,4 @@
-# EDR-AUTOMATION
+# EDR-AUTOMATION AND FORENSIC REPORTING
 ![mt](https://github.com/user-attachments/assets/9005c382-be51-4c6d-85d8-40d35861a3f4)
 
 EDR Automated Script Documentation
